@@ -7,8 +7,10 @@
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white)]()
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)]()
-  [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)]()
 
+  [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)]()
+  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white")]()
+  
   [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)]()
   [![Saas](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)]()
 
@@ -17,12 +19,12 @@
 <h4>📌BackEnd</h4>
 <br/>
 
-  [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
-  [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
-  [![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)]()
 
   [![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white)]()
   [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)]()
+  
+  [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]() 
+  [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)]() 
 
 <br/>
 <h4>📌DevOps</h4>
